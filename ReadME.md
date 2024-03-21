@@ -22,7 +22,7 @@ En résumé, tu vas devoir :
 - Quand la valeur -10 est atteinte, le bouton + se désactive.
 
 ### 3. La valeur limite
-- Quand les valeurs limites sont atteintes, le chiffre deviennent rouge.
-- Quand les valeurs limites sont atteintes, les boutons deviennent inactifs.
+- Quand les valeurs limites sont atteintes, le chiffre devient rouge.
+- Quand les valeurs limites sont atteintes, le bouton concerné devient inactifs.
 
 Pour aboutir, n'hésite pas à utiliser toutes les ressources à ta disposition pour te rafraîchir la mémoire 😊 
