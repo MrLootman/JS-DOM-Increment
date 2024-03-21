@@ -18,8 +18,8 @@ En résumé, tu vas devoir :
 - En cliquant sur le bouton -, tu peux observer le chiffre décrémenter de 1.
 
 ### 2. Bloquer le compteur
-- Quand la valeur 10 est atteinte, le bouton - se désactive, et devient impossible à cliquer.
-- Quand la valeur -10 est atteinte, le bouton + se désactive.
+- Quand la valeur 10 est atteinte, le bouton + se désactive, et devient impossible à cliquer.
+- Quand la valeur -10 est atteinte, le bouton - se désactive.
 
 ### 3. La valeur limite
 - Quand les valeurs limites sont atteintes, le chiffre devient rouge.
