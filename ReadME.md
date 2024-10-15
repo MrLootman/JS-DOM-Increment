@@ -27,7 +27,7 @@ En résumé, tu vas devoir :
 
 ### 4. Gérer les valeurs limites
 - Quand les valeurs limites sont atteintes (10 et -10), le chiffre devient rouge.
-- Si la valeur 10 est atteinte, le score devient rouge. Si on clique sur le bouton +, le score redevient blanc.
-- Si la valeur -10 est atteinte, le score devient rouge. Si on clique sur le bouton -, le score redevient blanc. 
+- Si la valeur 10 est atteinte, le score devient rouge. Si on clique sur le bouton -, le score redevient blanc.
+- Si la valeur -10 est atteinte, le score devient rouge. Si on clique sur le bouton +, le score redevient blanc. 
 
 Pour aboutir, n'hésite pas à utiliser toutes les ressources à ta disposition pour te rafraîchir la mémoire 😊 
