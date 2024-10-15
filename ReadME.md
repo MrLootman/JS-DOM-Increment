@@ -21,7 +21,7 @@ En résumé, tu vas devoir :
 - Quand la valeur 10 est atteinte, le bouton + se désactive, et devient impossible à cliquer.
 - Quand la valeur -10 est atteinte, le bouton - se désactive.
 
-## 3. Réactiver les boutons
+### 3. Réactiver les boutons
 - Quand la valeur 10 est atteinte, si on clique sur le bouton -, le bouton + se réactive.
 - Quand la valeur -10 est atteinte, si on clique sur le bouton +, le bouton - se réactive.
 
