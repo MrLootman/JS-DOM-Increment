@@ -21,8 +21,13 @@ En résumé, tu vas devoir :
 - Quand la valeur 10 est atteinte, le bouton + se désactive, et devient impossible à cliquer.
 - Quand la valeur -10 est atteinte, le bouton - se désactive.
 
-### 3. La valeur limite
-- Quand les valeurs limites sont atteintes, le chiffre devient rouge.
-- Quand les valeurs limites sont atteintes, le bouton concerné devient inactifs.
+## 3. Réactiver les boutons
+- Quand la valeur 10 est atteinte, si on clique sur le bouton -, le bouton + se réactive.
+- Quand la valeur -10 est atteinte, si on clique sur le bouton +, le bouton - se réactive.
+
+### 4. Gérer les valeurs limites
+- Quand les valeurs limites sont atteintes (10 et -10), le chiffre devient rouge.
+- Si la valeur 10 est atteinte, le score devient rouge. Si on clique sur le bouton +, le score redevient blanc.
+- Si la valeur -10 est atteinte, le score devient rouge. Si on clique sur le bouton -, le score redevient blanc. 
 
 Pour aboutir, n'hésite pas à utiliser toutes les ressources à ta disposition pour te rafraîchir la mémoire 😊 
